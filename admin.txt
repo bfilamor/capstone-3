@@ -1,0 +1,6 @@
+UN: admin@test.com
+PW: test123
+
+Regular User
+UN bking@test.com
+PW test123
